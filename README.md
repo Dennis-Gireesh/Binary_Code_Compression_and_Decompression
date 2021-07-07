@@ -1,6 +1,6 @@
 # Binary_Code_Compression_and_Decompression
 
-> Code compression is a promising approach to reduse the memory footprint and to improve power, performance of an embedded system.
+> Code compression is a promising approach to reduce the memory footprint and to improve the power, the performance of an embedded system.
 
 
 > Formats for Lossless compression(Dictionary based) used in this project.
